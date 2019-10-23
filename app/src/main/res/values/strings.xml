@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SurvivingInSpace</string>
+    <string name="hello">Hello World, SurviveInSpace!</string>
+    <string name="restart">다시하기</string>
+</resources>
